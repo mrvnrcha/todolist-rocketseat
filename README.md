@@ -2,8 +2,6 @@
   Web Service Todo list
 </p>
 
-<img src=".github/web.png">
-
 ## 💻 Projeto
 
 Web Service que com autenticação para usuários que podem criar uma tasks em uma todo list.
